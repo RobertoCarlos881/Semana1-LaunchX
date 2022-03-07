@@ -3,7 +3,7 @@
 <h3 align="center">Semana1-LaunchX</h3>
 
   <p align="center">
-    Una tienda online donde puedes vender tus propios productos y donde puedes comprar articulos de Mercado Libre.
+    Un pequeño diseño de UX/UI para una empresa de abogados.
     <br>
   </p>
   <p>Autor:
